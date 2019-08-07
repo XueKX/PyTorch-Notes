@@ -11,5 +11,5 @@
     - 具有强大的GPU加速的张量计算（如NumPy）
     - 包含自动求导系统的的深度神经网络
 - Pytroch的安装
-- [官网下载安装](https://pytorch.org/)
-    - ![1565145883604](C:\Users\xkx\AppData\Roaming\Typora\typora-user-images\1565145883604.png)
+  - [官网下载安装](https://pytorch.org/)
+    - ![如图](resource1/image01.jpg)
