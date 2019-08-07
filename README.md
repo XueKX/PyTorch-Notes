@@ -12,4 +12,4 @@
     - 包含自动求导系统的的深度神经网络
 - Pytroch的安装
   - [官网下载安装](https://pytorch.org/)
-    - ![如图](resource1/image01.jpg)
+    - ![如图](resource/image01.jpg)
