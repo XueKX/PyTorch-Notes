@@ -5,7 +5,7 @@
 @contact: 864140438@qq.com
 @file: demo01.py
 @time: 2019/8/8 14:29
-@desc:
+@desc: numpy和pytorch实现梯度下降法
 '''
 import os
 
@@ -40,7 +40,7 @@ class Logits(nn.Module):
     def __init__(self):
         super(Logits, self).__init__()
         self.linear = nn.Linear(28 * 28, 10)
-        self.sigmoid = nn.Sigmoid()+6
+        self.sigmoid = nn.Sigmoid() + 6
         self.softmax = nn.Softmax(dim=1)
 
     def forward(self, x):
